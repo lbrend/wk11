@@ -118,23 +118,3 @@ document.querySelector("#orig").addEventListener("click", originalStyle);
 
 
 
-// document.querySelector("#slider").addEventListener("input", function () {
-//     var vol = this.value;
-//     video.volume = vol / 100;
-//     document.querySelector("#volume").innerText = vol + "%";
-//     console.log("Volume set to " + vol + "%");
-// });
-
-
-
-// document.querySelector("#vintage").addEventListener("click", function () {
-//     video.classList.add("oldSchool");
-//     console.log("OldSchool style");
-// });
-
-
-
-// document.querySelector("#orig").addEventListener("click", function () {
-//     video.classList.remove("oldSchool");
-//     console.log("Original style");
-// });
